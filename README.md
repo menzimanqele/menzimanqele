@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Menzi Travor Manqele
 
-<!--
-**menzimanqele/menzimanqele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer based in Cape Town, South Africa 🇿🇦, with deep experience building scalable, distributed systems using:
 
-Here are some ideas to get you started:
+- 💻 **.NET 6+ / C#** (Web API, Microservices, Clean Architecture)
+- 🐇 **RabbitMQ**
+- 🧠 **Entity Framework Core**, **Dapper**, **LINQ to DB**
+- 🗃️ **SQL Server**, **PostgreSQL**, **SQLite**
+- ☁️ **Azure**, **Docker**
+- 📊 **Redis**
+- 🧪 **xUnit**, **Moq**, **FluentAssertions**
+- 🔐 Clean code, SOLID principles, Domain-Driven Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Sample Projects
+
+🚧 **More public samples coming soon — most of my work is proprietary.**  
+In the meantime, here’s a small taste of how I structure and approach solutions:
+
+- [**Online Betting Capture System**](https://github.com/menzimanqele/OT.OnlineBetting)  
+  .NET 8 API & background worker with RabbitMQ, EF Core, clean separation of concerns, Swagger, and unit tests.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: manqele@live.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/menzi)
+- 📧 Tel: 0839292555
+  
