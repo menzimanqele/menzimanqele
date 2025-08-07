@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Menzi Travor Manqele
 
-I'm a Senior Software Engineer based in Cape Town, South Africa 🇿🇦, with deep experience building scalable, distributed systems using:
+I'm a Senior Software Engineer based in Johannesburg, South Africa 🇿🇦, with deep experience building scalable, distributed systems using:
 
 - 💻 **.NET 6+ / C#** (Web API, Microservices, Clean Architecture)
 - 🐇 **RabbitMQ**
